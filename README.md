@@ -1,5 +1,3 @@
-# Linux
-
 ```
 mkdir ~/.config
 cd ~/.config
