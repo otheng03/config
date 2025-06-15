@@ -1,5 +1,4 @@
 ```
-mkdir ~/.config
-cd ~/.config
-git clone git@github.com:otheng03/config.git
+$ cd ~
+$ git clone git@github.com:otheng03/config.git
 ```
