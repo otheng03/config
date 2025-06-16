@@ -1,5 +1,5 @@
 syntax on
-" colorscheme desert
+colorscheme desert
 " filetype on
 " filetype plugin on
 " filetype indent on
