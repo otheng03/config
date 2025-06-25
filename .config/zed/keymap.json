@@ -7,15 +7,19 @@
 // from the command palette.
 [
   {
-    "context": "Workspace",
     "bindings": {
-      // "shift shift": "file_finder::Toggle"
+      "alt-1": "workspace::ToggleLeftDock",
+      "super-f12": "workspace::ToggleBottomDock"
     }
   },
   {
-    "context": "Editor",
+    "context": "Workspace",
     "bindings": {
-      // "j k": ["workspace::SendKeystrokes", "escape"]
+    }
+  },
+  {
+    "context": "Editor && vim_mode == insert && !menu",
+    "bindings": {
     }
   }
 ]
