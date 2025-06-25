@@ -8,8 +8,10 @@
 [
   {
     "bindings": {
-      "alt-1": "workspace::ToggleLeftDock",
-      "super-f12": "workspace::ToggleBottomDock"
+      "alt-1": "project_panel::ToggleFocus",
+      //"alt-1": "workspace::ToggleLeftDock",
+      "super-f12": "terminal_panel::ToggleFocus"
+      //"super-f12": "workspace::ToggleBottomDock"
     }
   },
   {
