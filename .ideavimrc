@@ -1,0 +1,4 @@
+" keymap
+noremap \r <C-r>
+noremap \u u
+

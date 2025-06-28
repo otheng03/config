@@ -37,3 +37,8 @@ set statusline=%F%m%r%h%w\ (%{&ff}){%Y}\ [%l,%v][%p%%]
 
 " no error bells
 set noerrorbells
+
+" keymap
+nnoremap \r <C-r>
+nnoremap \u u
+
